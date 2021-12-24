@@ -19,6 +19,10 @@ Approach:
 
 - once we got rectangle box from above model used easyocr to read number from rectangle box.
 
+-- Help for VGG model 
+https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/
+
+
 Detected number is MH 20EE 7598
 
 To Improve Results: 
